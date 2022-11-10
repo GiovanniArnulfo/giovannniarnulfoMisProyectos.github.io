@@ -1,0 +1,43 @@
+.buttonMail{
+position:fixed;
+top:37%;
+right:5%;
+}
+#contrastButton{
+position:fixed;
+right:5%;
+top:49%;
+font-weight:bold;
+color:blue;
+}
+#buttonFontSize{
+position:fixed;
+top:57%;
+right:4%;
+font-weight:bold;
+color:green;
+}
+.buttonMenu{
+position:fixed;
+top:65%;
+right:5%;
+}
+
+.bodyContrast{
+}
+.bodyContrast.Natural{
+background-color:black; color: white;
+}
+.bodyContrast.FontSize{
+font-size:25px
+}
+
+h1 {color: red;
+      background-color: black;
+      text-align:center      
+}	
+p{ text-align:leftt;
+  }
+td{text-align:center;
+}
+ 
